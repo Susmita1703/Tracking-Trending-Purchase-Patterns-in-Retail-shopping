@@ -17,7 +17,7 @@ This project focuses on analyzing retail sales data to gain insights into custom
    **Expected outcomes**
    Through this project, we aim to uncover actionable insights that can help retailers optimize their sales strategies, improve customer satisfaction, and enhance overall business performance.
 
-   Details of columns [click here]()
+   Details of columns [click here](https://github.com/Susmita1703/Tracking-Trending-Purchase-Patterns-in-Retail-shopping/blob/main/Details%20of%20columns%20of%20retail%20sales%20data.docx)
 
    
 click here to see the jupiter file where eda and analysis done 
