@@ -1,4 +1,4 @@
-![image](https://github.com/Susmita1703/Tracking-Trending-Purchase-Patterns-in-Retail-shopping/assets/159991663/8ec3c77e-f162-43fd-a038-1e57a3b48a5d)![image](https://github.com/Susmita1703/Tracking-Trending-Purchase-Patterns-in-Retail-shopping/assets/159991663/bdb41bb2-a00e-4903-a119-e1d8a9ef5fc4)# Tracking-Trending-Purchase-Patterns-in-Retail-shopping
+# Tracking-Trending-Purchase-Patterns-in-Retail-shopping
 Discover retail trends and purchasing patterns. Analyze consumer behavior for actionable insights.
 **Information about dataset**
 This project focuses on analyzing retail sales data to gain insights into customer preferences, seasonal trends, and purchasing behavior. The dataset provides comprehensive details about sales transactions, including information on customers' demographics, purchase amounts, payment methods, and frequency of purchases.
@@ -31,6 +31,8 @@ click here to see the jupiter file where eda and analysis done
 5 . While blouse and jewelry witness high quantities sold, the average purchase amount is notably higher for hats and jackets.
 6 . The sentiment analysis indicates that footwear products receive the highest level of positive sentiment among customers. This suggests that footwear items are well-received and 
     positively perceived by customers, potentially indicating a strong preference or satisfaction with this category of products.
+
+    **Presentation of my project**  [click here]()
 
     
 
