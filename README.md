@@ -33,7 +33,7 @@ click here to see the jupiter file where eda and analysis done
     positively perceived by customers, potentially indicating a strong preference or satisfaction with this category of products.
 
     **Presentation of my project**  
-    [click here](https://github.com/Susmita1703/Tracking-Trending-Purchase-Patterns-in-Retail-shopping/blob/main/Tracking%20trending%20purchase%20in%20retail%20sales.pptx)
+  [click here](https://github.com/Susmita1703/Tracking-Trending-Purchase-Patterns-in-Retail-shopping/blob/main/Tracking%20trending%20purchase%20in%20retail%20sales.pptx)
 
     
 
