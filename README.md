@@ -17,6 +17,6 @@ This project focuses on analyzing retail sales data to gain insights into custom
    **Expected outcomes**
    Through this project, we aim to uncover actionable insights that can help retailers optimize their sales strategies, improve customer satisfaction, and enhance overall business performance.
 
-   [Eda file](C:\Users\USER\Desktop\learn Python\Untitled Folder\Tracking shopping patterns of retail sales.ipynb)
+[Eda file](C:\Users\USER\Desktop\learn Python\Untitled Folder\Tracking shopping patterns of retail sales.ipynb)
 
    
