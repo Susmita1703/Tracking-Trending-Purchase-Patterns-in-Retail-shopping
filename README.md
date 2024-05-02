@@ -17,6 +17,8 @@ This project focuses on analyzing retail sales data to gain insights into custom
    **Expected outcomes**
    Through this project, we aim to uncover actionable insights that can help retailers optimize their sales strategies, improve customer satisfaction, and enhance overall business performance.
 
-[Eda file](https://raw.githubusercontent.com/Susmita1703/Tracking-Trending-Purchase-Patterns-in-Retail-shopping/main/README.md)
+[Eda file](https://raw.githubusercontent.com/Susmita1703/)
+"C:\Users\USER\Desktop\learn Python\Untitled Folder\Tracking shopping patterns of retail sales.ipynb"
+"C:\Users\USER\Desktop\learn Python\Untitled Folder\Tracking shopping patterns of retail sales.ipynb"
 
    
