@@ -1,6 +1,9 @@
 # Tracking-Trending-Purchase-Patterns-in-Retail-shopping
 Discover retail trends and purchasing patterns. Analyze consumer behavior for actionable insights.
 
+I obtained the dataset for this project from Kaggle.
+[click here for dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+
 **Information about dataset**
 
 This project focuses on analyzing retail sales data to gain insights into customer preferences, seasonal trends, and purchasing behavior. The dataset provides comprehensive details about sales transactions, including information on customers' demographics, purchase amounts, payment methods, and frequency of purchases.
